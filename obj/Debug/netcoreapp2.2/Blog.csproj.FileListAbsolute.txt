@@ -1,0 +1,16 @@
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\Blog.deps.json
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\Blog.runtimeconfig.json
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\Blog.runtimeconfig.dev.json
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\Blog.dll
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.csprojAssemblyReference.cache
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.RazorAssemblyInfo.cache
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.RazorAssemblyInfo.cs
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.AssemblyInfoInputs.cache
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.AssemblyInfo.cs
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.RazorTargetAssemblyInfo.cache
+C:\Users\ucilia\source\repos\Blog\bin\Debug\netcoreapp2.2\Blog.pdb
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.dll
+C:\Users\ucilia\source\repos\Blog\obj\Debug\netcoreapp2.2\Blog.pdb
